@@ -14,4 +14,4 @@ Dataset Sayuran:
 
 
 # Capstone-ML Week 2
-Melakukan clasikasi model untuk dataset ikan dan sayur
+Melakukan klasikasi model untuk dataset ikan dan sayur
