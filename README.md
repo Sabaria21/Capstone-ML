@@ -11,3 +11,7 @@ Dataset ikan:
 Dataset Sayuran:
 1. https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 2. https://www.kaggle.com/datasets/moustacheman/vegetable-images
+
+
+# Capstone-ML Week 2
+Melakukan clasikasi model untuk dataset ikan dan sayur
